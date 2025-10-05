@@ -60,13 +60,13 @@ This project demonstrates **authentication, role-based access (USER/ADMIN)**, an
 
 ## ⚡ Installation & Setup
 
-### 1️⃣ Backend (Spring Boot)
+ 1️⃣ Backend (Spring Boot)
 ```bash
 cd todo-backend
 # configure MySQL in src/main/resources/application.properties
 mvn spring-boot:run
 
-### 2️⃣ Frontend (React)
+ 2️⃣ Frontend (React)
 cd todo-frontend
 npm install
 npm start
