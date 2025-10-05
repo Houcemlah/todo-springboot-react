@@ -83,4 +83,12 @@ Admins can add other admins from the Admin Panel
 
 📸 Screenshots
 
+### Login Page
+![Login](./screenshots/Login.JPG)
 
+### Register Page
+![Register](./screenshots/Register.JPG)
+
+
+### Dashboard
+![Dashboard](./screenshots/AdminPanel.JPG)
